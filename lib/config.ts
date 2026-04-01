@@ -10,7 +10,7 @@ export const config = {
     name: "Ratan Sanjay",
     designation: "Software Developer",
     about: `Computer Science undergraduate at NIE Mysore (CGPA: 8.6/10) with strong experience building scalable full-stack web applications using React, Django, DRF, and PostgreSQL. Solved 400+ DSA problems. Google & Cisco certified. Seeking SDE / Backend / Full-Stack roles.`,
-    resumeLink: "#",
+    resumeLink: "https://drive.google.com/file/d/129N4LjVAU8bdY4pPj3azzyJE3DZ3lHXu/view?usp=drive_link",
     profilePhoto: "/assets/profile-placeholder.png",
   },
   social: {

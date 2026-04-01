@@ -30,7 +30,7 @@ const techStack = [
     items: [
       { name: "C++", level: "Advanced", note: "DSA & competitive" },
       { name: "Python", level: "Advanced", note: "Backend & scripting" },
-      { name: "JavaScript", level: "Advanced", note: "Full-stack" },
+      { name: "JavaScript", level: "Intermediate", note: "Full-stack" },
       { name: "SQL", level: "Intermediate", note: "PostgreSQL, MySQL" },
     ],
   },
@@ -38,10 +38,9 @@ const techStack = [
     category: "Frontend",
     icon: Globe,
     items: [
-      { name: "React.js", level: "Advanced", note: "Hooks, context, perf" },
-      { name: "Next.js", level: "Intermediate", note: "SSR, routing" },
-      { name: "HTML5 & CSS3", level: "Advanced", note: "Responsive design" },
-      { name: "Tailwind CSS", level: "Intermediate", note: "Utility-first" },
+      { name: "React.js", level: "Intermediate", note: "Router, props, component" },
+      { name: "Next.js", level: "Beginner", note: "SSR, routing" },
+      { name: "HTML5 & CSS3", level: "Beginner", note: "Responsive design" },
     ],
   },
   {
@@ -71,7 +70,7 @@ const techStack = [
       { name: "Data Structures & Algorithms", level: "Advanced", note: "400+ problems solved" },
       { name: "Object-Oriented Programming", level: "Advanced", note: "C++ & Python" },
       { name: "Operating Systems", level: "Intermediate", note: "Processes, memory" },
-      { name: "Computer Networks", level: "Intermediate", note: "TCP/IP, HTTP, DNS" },
+      { name: "Computer Networks", level: "Advanced", note: "TCP/IP, HTTP, DNS" },
     ],
   },
   {
